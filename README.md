@@ -11,4 +11,4 @@ Being able to automatically describe the contents of an image after image proces
 Google Colab, Python, Tensorflow, Scikit-learn, Pandas, Numpy, Inception v3, GPT-2
 
 ## Result
-![test run output](https://github.com/prakulsharma/smart_storyteller/blob/main/results/screenshots/output.png?raw=true)
+<img width="500" style="display: block; margin-left: auto; margin-right: auto;" alt="test-output-image" src="https://user-images.githubusercontent.com/29233867/209083682-7e108eed-cc67-4c6f-9914-76b2401c3656.png">
